@@ -49,7 +49,6 @@ experience:
   company_url: ""
   date_end: "2015-09-15"
   date_start: "2014-09-15"
-  description: Involved in Marie-Curie Initial Training Project MACROHIST
   location: Ankara
-  title: Research Fellow
+  title: Researcher in Marie-Curie Initial Training Project MACROHIST
 ---
