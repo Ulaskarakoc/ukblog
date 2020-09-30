@@ -35,7 +35,7 @@ experience:
   company_url: ""
   date_end: "2020-08-31"
   date_start: "2020-02-03"
-  description: Taught electronic engineering and researched semiconductor physics.
+  description: Taught Econometrics, Mathematics for Economists and Introduction to Economics.
   location: Ankara
   title: Assist. Professor in Economics
 - company: Humboldt University Berlin
