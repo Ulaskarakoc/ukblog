@@ -37,7 +37,7 @@ experience:
   date_start: "2020-02-03"
   description: Taught Econometrics, Mathematics for Economists and Introduction to Economics.
   location: Ankara
-  title: Assist. Professor in Economics
+  title: Assist. Prof. in Economics
 - company: Humboldt University Berlin
   company_url: ""
   date_end: "2019-12-31"
