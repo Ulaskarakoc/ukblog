@@ -28,7 +28,7 @@ experience:
 - company: GenCoin
   company_url: ""
   date_end: ""
-  date_start: "2017-01-01"
+  date_start: "2020-09-01"
   description: |-
     Responsibilities include:
     * Analysing
