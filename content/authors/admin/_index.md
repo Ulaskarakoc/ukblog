@@ -43,4 +43,4 @@ user_groups:
 ---
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/karakoc_resume_academic.pdf" "newtab" >}}resumé{{< /staticref >}}.
