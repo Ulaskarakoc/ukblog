@@ -25,22 +25,31 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   You can begin a multiline `description` using YAML's `|-`.
 experience:
-- company: GenCoin
+- company: Kadir Has University
   company_url: ""
   date_end: ""
   date_start: "2020-09-01"
-  description: |-
-    Responsibilities include:
-    * Analysing
-    * Modelling
-    * Deploying
-  location: California
-  title: CEO
-- company: University X
+  location: Istanbul
+  title: Assist. Prof. in Economics
+- company: TOBB ETU
   company_url: ""
-  date_end: "2016-12-31"
-  date_start: "2016-01-01"
+  date_end: "2020-08-31"
+  date_start: "2020-02-03"
   description: Taught electronic engineering and researched semiconductor physics.
-  location: California
-  title: Professor
+  location: Ankara
+  title: Assist. Professor in Economics
+- company: Humboldt University Berlin
+  company_url: ""
+  date_end: "2019-12-31"
+  date_start: "2017-01-01"
+  description: Taught Econonics of Midddle East and Political Economy of Inequality.
+  location: Berlin
+  title: Research Fellow in Economic History
+- company: Humboldt University Berlin
+  company_url: ""
+  date_end: "2015-09-15"
+  date_start: "2014-09-15"
+  description: researcher in Marie-Curie Initial Training Project MACROHIST
+  location: Ankara
+  title: Research Fellow
 ---
