@@ -26,7 +26,7 @@ social:
   link: /#contact
 - icon: twitter
   icon_pack: fab
-  link: 
+  link: https://twitter.com/khasecon
 - icon: graduation-cap
   icon_pack: fas
   link: https://scholar.google.de/citations?user=srx6f3UAAAAJ&hl=en
