@@ -16,6 +16,8 @@ interests:
 - Economic History
 - Development
 - Applied statistics and econometrics
+- Statistical programming with R
+- Spatial analysis
 organizations:
 - name: Kadir Has University
   url: 
