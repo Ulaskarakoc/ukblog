@@ -1,5 +1,5 @@
 ---
-bio: My research interests include economic history, development, economic geography of Turkey during the 20th century.
+bio: 
 education:
   courses:
   - course: PhD in Economic History
@@ -41,6 +41,10 @@ title: Ulaş Karakoç
 user_groups:
 - Principal Investigators
 ---
+
+I used to solve math problems and read history, politics and literature in my spare time when I was in the high school. Little has changed since. As a researcher, I am both interested in the grand questions of economic history, and the mathematical properties of the statistical tools. I like both ideas and numbers.
+
+Currently, I am working on the long-run patterns of regional inequalities in Turkey, the economic impact of railroads and several other projects.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/karakoc_resume_academic.pdf" "newtab" >}}resumé{{< /staticref >}}.
