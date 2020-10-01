@@ -36,13 +36,13 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://academic.oup.com/ereh/article-abstract/22/1/53/4098095
+url_pdf: 
 url_code:
 url_dataset:
 url_poster:
 url_project:
 url_slides:
-url_source:
+url_source:https://academic.oup.com/ereh/article-abstract/22/1/53/4098095
 url_video:
 
 # Featured image
