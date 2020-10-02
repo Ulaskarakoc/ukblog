@@ -32,5 +32,5 @@ publication_types:
 - 6
 abstract: ''
 publication: '*İktisat Tarihinin Dönüşü: Türkiye’de ve Dünyada Yeni Yaklaşımlar ve
-  Araştırmalar*'
+  Araştırmalar, İletişim Yayınları*'
 ---
