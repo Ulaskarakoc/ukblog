@@ -5,8 +5,7 @@ title: 'Book Review: Metin Coşgel and Boğaç Ergene, The economics of Ottoman 
   and trial in the Sharia courts, Cambridge: Cambridge University Press, 2016'
 subtitle: ''
 summary: ''
-authors:
-- ""
+
 tags: []
 categories: []
 date: '2018-01-01'
