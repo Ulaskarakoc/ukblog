@@ -6,7 +6,7 @@ title: 'Book Review: Metin Coşgel and Boğaç Ergene, The economics of Ottoman 
 subtitle: ''
 summary: ''
 authors:
-- Ulaş Karakoç
+- 
 tags: []
 categories: []
 date: '2018-01-01'

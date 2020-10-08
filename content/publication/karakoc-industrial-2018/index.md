@@ -5,7 +5,7 @@ title: 'Industrial growth in interwar Egypt: first estimates, new insights'
 subtitle: ''
 summary: ''
 authors:
-- Ulaş Karakoç
+- 
 tags: []
 categories: []
 date: '2018-02-01'

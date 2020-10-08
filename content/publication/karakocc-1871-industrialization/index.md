@@ -5,8 +5,8 @@ title: Industrialization in Egypt and Turkey, 1870-2010
 subtitle: ''
 summary: ''
 authors:
-- with
-- Sevket Pamuk
+- 
+- with Sevket Pamuk
 - Laura Panza
 tags: []
 categories: []

@@ -6,8 +6,8 @@ title: 'Overcoming the Egytian cotton crisis in the interwar period: the role of
 subtitle: ''
 summary: ''
 authors:
-- Ulaş Karakoç
-- Laura Panza
+- 
+- with Laura Panza
 tags: []
 categories: []
 date: '2020-01-01'

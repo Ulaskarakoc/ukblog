@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Regional Inequality and East-West Divide in Turkey since 1880"
-authors: [admin, Sevket Pamuk, Gunes Asik]
+authors: [with Sevket Pamuk, Gunes Asik]
 date: 2020-10-08T20:51:01+03:00
 doi: ""
 
