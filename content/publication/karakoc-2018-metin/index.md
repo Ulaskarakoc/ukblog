@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: 'Metin Coşgel and Boğaç Ergene, The economics of Ottoman justice: settlement
+title: 'Book Review: Metin Coşgel and Boğaç Ergene, The economics of Ottoman justice: settlement
   and trial in the Sharia courts, Cambridge: Cambridge University Press, 2016'
 subtitle: ''
 summary: ''
@@ -13,6 +13,7 @@ date: '2018-01-01'
 lastmod: 2020-10-01T23:04:58+03:00
 featured: false
 draft: false
+doi: 10.1111/ehr.12677
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -32,5 +33,5 @@ publishDate: '2020-10-01T20:04:58.008651Z'
 publication_types:
 - 2
 abstract: ''
-publication: '*The Economic History Review*'
+publication: '*The Economic History Review, 71(1), 348-49*'
 ---
