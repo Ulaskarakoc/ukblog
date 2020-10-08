@@ -42,7 +42,7 @@ url_dataset:
 url_poster:
 url_project:
 url_slides:
-url_source:
+url_source: https://cepr.org/active/publications/discussion_papers/dp.php?dpno=15304
 url_video:
 
 # Featured image
