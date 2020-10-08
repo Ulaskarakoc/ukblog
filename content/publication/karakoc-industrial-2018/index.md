@@ -4,8 +4,6 @@
 title: 'Industrial growth in interwar Egypt: first estimates, new insights'
 subtitle: ''
 summary: ''
-authors:
-- 
 tags: []
 categories: []
 date: '2018-02-01'

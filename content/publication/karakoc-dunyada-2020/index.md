@@ -4,8 +4,6 @@
 title: Dünyada ve Türkiye'de geç sanayileşme
 subtitle: ''
 summary: ''
-authors:
-- Ulaş Karakoç
 tags: []
 categories: []
 date: '2020-01-01'

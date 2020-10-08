@@ -6,7 +6,6 @@ title: 'Overcoming the Egytian cotton crisis in the interwar period: the role of
 subtitle: ''
 summary: ''
 authors:
-- 
 - with Laura Panza
 tags: []
 categories: []

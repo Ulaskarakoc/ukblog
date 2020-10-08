@@ -5,8 +5,6 @@ title: 'Book Review: Deniz Kılınçoğlu. Economics and Capitalism in the Ottom
   and New York: Routledge, 2015'
 subtitle: ''
 summary: ''
-authors:
-- 
 tags: []
 categories: []
 date: '2017-01-01'
