@@ -6,7 +6,7 @@ title: 'Book Review: Deniz Kılınçoğlu. Economics and Capitalism in the Ottom
 subtitle: ''
 summary: ''
 authors:
-- Ulaş Karakoç
+- 
 tags: []
 categories: []
 date: '2017-01-01'
