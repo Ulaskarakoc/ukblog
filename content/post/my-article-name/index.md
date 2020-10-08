@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "My first post defines economic historian"
+title: "My first post defines economic historian (not so seriously)"
 subtitle: ""
 summary: ""
 authors: []
