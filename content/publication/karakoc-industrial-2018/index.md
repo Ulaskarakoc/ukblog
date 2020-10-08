@@ -31,7 +31,7 @@ publishDate: '2020-10-01T20:04:57.720525Z'
 publication_types:
 - 2
 abstract: ''
-publication: '*European Review of Economic History*'
+publication: '*European Review of Economic History, 22(1), 53-72*'
 url_pdf: https://academic.oup.com/ereh/article/22/1/53/4098095
 doi: 10.1093/ereh/hex013
 ---

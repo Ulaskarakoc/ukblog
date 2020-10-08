@@ -33,5 +33,5 @@ publishDate: '2020-10-01T20:04:57.866103Z'
 publication_types:
 - 2
 abstract: ''
-publication: '*Economic History Review*'
+publication: '*Economic History Review, forthcoming*'
 ---
