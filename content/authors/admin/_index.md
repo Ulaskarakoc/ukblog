@@ -44,9 +44,8 @@ user_groups:
 - Principal Investigators
 ---
 
-I used to solve math problems and read history, politics and literature in my spare time when I was in the high school. Little has changed since. As a researcher, I am interested in the grand questions of economic history and development, as well as not-so-grand mathematical properties of the statistical distributions. Putting differently, I like both ideas and numbers.
+I am a member of Economics Department of Kadir Has University. My current research focuses on the economic history of Turkey since the World War I, the regional inequalites, West-East divide, industry location and railroads.
 
-I am currently working on the regional inequalities, the great West-East Divide, economic impact of railroads and industrial location in Turkey since the late 19th century.
-
+I am also interested in the social science applications of the state-of-the-art computational methods in statistical programming, data visualization, text mining and spatial analysis.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/karakoc_resume_academic.pdf" "newtab" >}}resumé{{< /staticref >}}.
