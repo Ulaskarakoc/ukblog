@@ -28,7 +28,7 @@ image:
 projects: []
 ---
 
-Economic historians usually have a self-identification problem for some reason: are they economists, historians or what?
+Economic historians usually have a self-identification problem: are they economists, historians or what?
 
 My definition is simple: Economic historian is either the economist who reads books, or the historian who likes numbers, or both.
 
