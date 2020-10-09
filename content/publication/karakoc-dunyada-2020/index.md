@@ -29,6 +29,6 @@ publishDate: '2020-10-01T20:04:57.299072Z'
 publication_types:
 - 6
 abstract: ''
-publication: '*İktisat Tarihinin Dönüşü: Türkiye’de ve Dünyada Yeni Yaklaşımlar ve
-  Araştırmalar, İletişim Yayınları*'
+publication: '*in İktisat Tarihinin Dönüşü: Türkiye’de ve Dünyada Yeni Yaklaşımlar ve
+  Araştırmalar, İletişim Yayınları (forthcoming)*'
 ---
