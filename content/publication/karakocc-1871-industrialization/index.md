@@ -32,5 +32,5 @@ publishDate: '2020-10-01T20:04:57.580812Z'
 publication_types:
 - 6
 abstract: ''
-publication: '*The Spread of Modern Industry to the Periphery since 1871, Oxford University Press*'
+publication: '*in The Spread of Modern Industry to the Periphery since 1871, pp.142-165, Oxford University Press*'
 ---
