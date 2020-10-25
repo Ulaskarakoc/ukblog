@@ -1,11 +1,11 @@
 +++
-title = "A publication title, such as title of a paper"
+title = "Buğday Raporu"
 
 # Date first published.
-date = "2013-07-01"
+date = "2008-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["First author's name", "Second author's name"]
+authors = [admin]
 
 # Publication type.
 # Legend:
@@ -16,10 +16,10 @@ authors = ["First author's name", "Second author's name"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["1"]
+publication_types = ["4"]
 
 # Publication name and optional abbreviated version.
-publication = "In *International Conference on Academic*. You may use *Markdown* for italics etc."
+publication = "In *Türkiye Tarımında Dönüşüm ve Küresel Piyasalarla Bütünleşme Süreçleri*."
 publication_short = "In *ICA*"
 
 # Abstract and optional shortened version.
@@ -39,7 +39,7 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = "pdf/my-paper-name.pdf"
+url_pdf = "pdf/tubitakproje_2008.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
