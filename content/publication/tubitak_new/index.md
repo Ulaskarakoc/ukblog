@@ -16,7 +16,7 @@ publishDate: 2020-10-08T20:51:01+03:00
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Türkiye tarımında Dönüşüm ve Küresel Piyasalarla Bütünleşme Süreçleri*, TÜBİTAK RAPORU"
+publication: "*Türkiye tarımında Dönüşüm ve Küresel Piyasalarla Bütünleşme Süreçleri*, TÜBİTAK Proje Raporu"
 publication_short: ""
 
 abstract: ""
