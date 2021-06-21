@@ -3,7 +3,7 @@ bio:
 education:
   courses:
   - course: PhD in Economic History
-    institution: LSE
+    institution: London School of Economics and Political Science
     year: 2015
   - course: MSc in Economics
     institution: Bogazici University
@@ -14,7 +14,7 @@ education:
 email: "ulas.karakoc@khas.edu.tr"
 interests:
 - Economic History
-- Development
+- Rural Development
 - Applied statistics and econometrics
 - Statistical programming with R
 - Spatial analysis with GIS
@@ -44,8 +44,8 @@ user_groups:
 - Principal Investigators
 ---
 
-I am a member of Economics Department of Kadir Has University. My current research focuses the regional inequalites, the West-East divide, industry location and railroads during the twentieth century. Besides, I am working with World Wildlife Fund-Turkey on a project regarding the drivers of the farmer's adoption of local wheat seeds. Also, I am consulting World Bank with a project on labor market participation and entrepreneurship of Syrian migrants.
+I am a member of Economics Department of Kadir Has University. My current research focuses the regional inequalities, industry location and railroads during the twentieth century. Besides, I am working with World Wildlife Fund-Turkey on a project regarding the drivers of the farmer's adoption of conservative agriculture techniques. I am also consulting World Bank with a project on labor market participation and entrepreneurship of Syrian migrants.
 
-I am interested in the social science applications of the state-of-the-art computational methods in statistical programming, data visualization, text mining and spatial analysis.
+I am interested in the state-of-the-art computational methods in statistical programming, data visualization, text mining and spatial analysis.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/karakoc_resume_academic.pdf" "newtab" >}}resumé{{< /staticref >}}.
