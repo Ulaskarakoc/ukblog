@@ -15,7 +15,7 @@ draft: false
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
+image: tokin.png
   caption: ""
   focal_point: ""
   preview_only: false
@@ -60,7 +60,9 @@ Tökin'in resmettiği köy ekonomileri, cumhuriyetin devraldığı ekonomilerdir
  
 1950'lere kadar geçimlik ekonominin hakim olduğu yerlerde toprak baskısı yoktur. Bir kere yüksek yerlerde, örneğin, doğuda zaten ekonomi temelde hayvancılık üstüne kuruludur. Geçimlik üretim için toprak her zaman vardır. Başka bölgelerde ise ekilen toprağın verimi azaldığında, köylünün orayı bırakıp başka bir yeri ekmesi mümkündür. Dolayısıyla toprağın verimini artırmak ancak toprağın kıt olduğu emtia ekonomisinde söz konusudur. Bu bakımdan gübre sanayinin özellikle 1950'lerden itibaren, yani Anadolu'da toprak bolluğunun sonlarına gelindiğinde ve artan nüfus baskısının hissedildiği dönemde gelişmiş olması tesadüf değildir. Piyasa ekonomisi homo economicus'u davet eder, ve o da kıt kaynağın verimli kullanılmasına yol açar.
  
-1950'lerden sonra toprak baskısının artışı, Türkiye'de bir yandan toprak sahipliğinin eşitsiz olduğu yerlerde toprak reformu taleplerini ortaya çıkarmış, bir yandan da Yeşil Devrim kapsamında yeni tohum ve gübre çeşitleri ile toprağın verimliliğini artırma çabasını destek olmuştur. Yeşil Devrim piyasa ekonomisinin daha henüz gelişmediği yerlerde 1960'lardan itibaren toprakta makineleşme, girdi kullanımını bugünlere kadar devam edecek biçimde değiştirmiştir. Sonuç olarak, son 50 yılı belirleyen üretim ve gıda rejimi köylüyü kendi geçimlik ekonomisinden çıkarıp piyasa aktörü haline getirmiştir. Piyasa bir mekanizma olarak kısa dönemli çıkarları açıkça tarif eder, ancak gelecek hep daha belirsizdir.
+1950'lerden sonra toprak baskısının artışı, Türkiye'de bir yandan toprak sahipliğinin eşitsiz olduğu yerlerde toprak reformu taleplerini ortaya çıkarmış, bir yandan da Yeşil Devrim kapsamında yeni tohum ve gübre çeşitleri ile toprağın verimliliğini artırma çabasını destek olmuştur. Yeşil Devrim piyasa ekonomisinin daha henüz gelişmediği yerlerde 1960'lardan itibaren toprakta makineleşme, girdi kullanımını bugünlere kadar devam edecek biçimde değiştirmiştir. Sonuç olarak, son 50 yılı belirleyen üretim ve gıda rejimi köylüyü kendi geçimlik ekonomisinden çıkarıp piyasa aktörü haline getirmiştir. 
+
+Piyasa bir mekanizma olarak kısa dönemli çıkarları açıkça tarif eder, ancak gelecek hep daha belirsizdir.
  
 Bugün geleneksel dediğimiz, ancak tarım toplumlarının tarihinin aslında küçük bir kesitinde hakim olmuş üretim sisteminin ilham verici bir eleştirisi yapan ve sağlıklı toprağı geleceğin tarımının temel meselesi olarak tartışan jeolog David Montgomery, "Growing the Revolution: Bringing our soil back to life" kitabında 21. yüzyılın en önemli sorularından birini soruyor: Çiftçilerin kısa dönemki çıkarları ile toplumun uzun dönemli ihtiyaçlarını nasıl birbiriyle uyumlu hale getireceğiz? 
 
